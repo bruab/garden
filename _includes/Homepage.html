@@ -1,28 +1,7 @@
 <div class="home-intro">
     <div class="jumbo">About this (sub)site</div>
         <p>This is a digital garden, which (I think) means a collection of interlinked notes.</p>
-        <p>The best place to start is by clicking on one of these notes, then just clicking around 👇</p>
-        <p>(Maybe pick one that you disagree with)</p>
-
-        <!-- feed with filter-->
-        <div class="related-wrapper">
-        {% assign note_items = site.notes | sort: "date" | reverse %}
-        {% for note_items in note_items limit:8 %}
-            {%- if note_items.feed == "show" -%}
-                    <div class="notelist-feed">
-                        <a href="{{ site.baseurl }}{{note_items.url}}">
-                            <h6>{{ note_items.title }}</h6>
-                            <p class="excerpt">
-                                {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncatewords: 16 }}
-                            </p>
-                        </a>
-                    </div>
-            {%- endif -%}
-        {%- endfor -%}
-        </div>
-
-        <hr />
-        <p>You can also search this (sub)site:</p>
+        <p>Type a random letter of the alphabet into the search bar 👇 and just start clicking.</p>
 
         <!-- search bar -->
         <div class="block">
@@ -32,7 +11,7 @@
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
         <script src="{{ site.baseurl }}/assets/js/Search.js"></script>
         
-        <p>If you want to know more about me, you should visit <a href="https://briandavidhall.com/">my main site</a> or <a href="https://bdh.wtf/">my linktree</a>.</p>
+        <p>If you want to know more about me, you should visit <a href="https://briandavidhall.com/">my main site</a> or <a href="https://bdh.wtf/">my linktree</a>, or just <a href="https://briandavidhall.com/contact/">reach out</a>.</p>
 
     </div> 
 </div>
