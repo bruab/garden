@@ -17,11 +17,11 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --color-bg-main: #262626;
+    --color-bg-main: #1F242A;
     --color-bg-sub: #18181C;
     --color-text-main: #FAFAFC;
     --color-text-sub: #FFFEFF;
-    --color-text-link: #6D9EFF;
+    --color-text-link: #74c0fc;
     --color-border-dark: #E6E6E6;
     --color-border: #696969;
     --color-border-light: #353535;
@@ -31,11 +31,11 @@ html[data-theme="dark"] {
 
     html,
     html[data-theme="dark"] {
-        --color-bg-main: #262626;
+        --color-bg-main: #1F242A;
         --color-bg-sub: #18181C;
         --color-text-main: #FAFAFC;
         --color-text-sub: #FFFEFF;
-        --color-text-link: #6D9EFF;
+        --color-text-link: #74c0fc;
         --color-border-dark: #E6E6E6;
         --color-border: #696969;
         --color-border-light: #353535;
@@ -142,7 +142,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 }
 
 p a,
