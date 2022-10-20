@@ -1,8 +1,39 @@
 <div class="home-intro">
-    <div class="jumbo">{{site.heading}} </div>
-    <div class="home-sub-text"> <h3>
-        Jekyll Garden is a markdown friendly theme lets you publish your Obsidian vault (or a subset of it) as a Jekyll static website. 
-        Check out the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> and <a href="{{'/post/how-to' | relative_url}}"> how to</a>.
-        </h3> 
-</div> </div>
+    <div class="jumbo">About this (sub)site</div>
+        <p>This is a digital garden, which (I think) means a collection of interlinked notes.</p>
+        <p>The best place to start is by clicking on one of these notes, then just clicking around 👇</p>
+        <p>(Maybe pick one that you disagree with)</p>
+
+        <!-- feed with filter-->
+        <div class="related-wrapper">
+        {% assign note_items = site.notes | sort: "date" | reverse %}
+        {% for note_items in note_items limit:8 %}
+            {%- if note_items.feed == "show" -%}
+                    <div class="notelist-feed">
+                        <a href="{{ site.baseurl }}{{note_items.url}}">
+                            <h6>{{ note_items.title }}</h6>
+                            <p class="excerpt">
+                                {{ note_items.content | strip_html | strip | remove: "[[" | remove: "]]" | remove: "-" | escape | truncate: 80 }}
+                            </p>
+                        </a>
+                    </div>
+            {%- endif -%}
+        {%- endfor -%}
+        </div>
+
+        <hr />
+        <p>You can also search this (sub)site:</p>
+
+        <!-- search bar -->
+        <div class="block">
+            <input class="input is-medium" type="text" placeholder="Search notes.." id="search-input" autocomplete="off">
+            <div id="search-results" class="search-results"></div>
+        </div>
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/vendor/lunr.min.js"></script>
+        <script src="{{ site.baseurl }}/assets/js/Search.js"></script>
+        
+        <p>If you want to know more about me, you should visit <a href="https://briandavidhall.com/">my main site</a> or <a href="https://bdh.wtf/">my linktree</a>.</p>
+
+    </div> 
+</div>
 
