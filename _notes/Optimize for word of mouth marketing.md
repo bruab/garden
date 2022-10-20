@@ -12,9 +12,9 @@ Start here.
 
 Make it highly likely that your customers will tell other potential customers about you.
 
-Hypothetically, this could be all the marketing you require. But don't do it because it might allow you to [[Cut your ads budget]], do it because it feels good.
+Hypothetically, this could be all the marketing you require. But don't do it just because it might mean you can [[Cut your ads budget]].
 
-Because you must [[Talk to customers]], and talking to customers is fun.
+Do it because it forces you to [[Talk to customers]], and talking to customers is fun.
 
 Also because increasing word of mouth marketing is a way to [[Seek win win wins]]. 
 
