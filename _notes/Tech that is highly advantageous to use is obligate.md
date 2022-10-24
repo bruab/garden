@@ -1,6 +1,6 @@
 ---
 
-title: Tech that is highly advantageous to use is obligate
+title: "Claim: Tech that is highly advantageous to use is obligate"
 feed: show
 date: 2022-10-24
 # permalink: /credits
