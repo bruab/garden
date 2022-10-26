@@ -8,7 +8,9 @@ date: 2022-10-20
 
 ---
 
-Just to see what happens! Maybe, like [eBay](https://www.nber.org/system/files/working_papers/w20171/w20171.pdf), you'll find the answer is "not much."
+Just to see what happens!
+
+Maybe, like [eBay](https://www.nber.org/system/files/working_papers/w20171/w20171.pdf), you'll find the answer is "not much."
 
 Remember the [Parable of the Pizzeria](https://twitter.com/randfish/status/1562524666232979457) - are your ads creating new sales, or just claiming credit for sales that were already going to happen?
 
