@@ -8,3 +8,12 @@ date: 2022-10-26
 
 ---
 
+No way around it, sorry.
+
+Suggestions:
+
+- [[Do outreach]]
+- [[Make your offer clear]]
+- [[Optimize for word of mouth marketing]]
+
+Oh and also [[Freelancers have to understand accounting]], sorry about that as well.
