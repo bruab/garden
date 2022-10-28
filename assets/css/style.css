@@ -1595,4 +1595,18 @@ a[href^="http"] {
 }
 
 
+/* custom styles added by @bruab */
+.footer-offer {
+  max-width: 440px;
+  text-align: center;
+  margin: 0 auto;
+}
 
+.footer-offer hr {
+  margin-top: 40px;
+  margin-bottom: 12px;
+}
+
+.footer-offer p {
+  font-style: italic;
+}
