@@ -62,7 +62,8 @@ plugins:
   - jekyll-feed 
   - jekyll-sitemap 
   - jekyll-tidy
-    
+  - jekyll-target-blank
+ 
 ## Enable Collections
 ## Suggested collects are "notes" "lists" and "blog"
 collections:
