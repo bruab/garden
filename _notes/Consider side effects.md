@@ -16,10 +16,10 @@ When considering a change, especially a technological innovation, remembering th
 
 But even if it does solve a real problem, like "food sticking to cookware," there's no guarantee that the benefit will outweigh the negative side effects.
 
-This is hard, because we only have to answer one question to determine if there's a benefit, but we have to answer infinite hypothetical questions to assess all the side effects.
+This is hard, because we only have to answer one question to determine if there's a benefit, but we have to answer *infinite hypothetical questions* to assess all the side effects.
 
 The right amount of time to consider side effects is not "infinite" but it's also not "meh whatever we'll be fine." 
 
 Default to non-adoption of technological innovations that solve non-critical problems. Revisit side effects of the tech you *do* use on a regular basis. And [[Be careful when optimizing something you can easily measure]].
 
-(See [[Put your phone away]].)
+(See [[Put your phone away]] and [[Don't let social media make you miserable]].)

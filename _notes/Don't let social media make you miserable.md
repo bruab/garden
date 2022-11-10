@@ -1,6 +1,6 @@
 ---
 
-title: Don't let social media make you miserable
+title: "Don't let social media make you miserable"
 feed: show
 date: 2022-10-20
 # permalink: /credits
