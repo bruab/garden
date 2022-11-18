@@ -1,3 +1,13 @@
+---
+
+title: Be careful when optimizing something you can easily measure
+feed: show
+date: 2022-11-18
+# permalink: /credits
+# format: list
+
+---
+
 It's easy to measure clicks on a website, and reasonbly simple to optimize for clicks.  But [clicks don't make you money](https://briandavidhall.com/optimizing-for-dead-snakes/).
 
 It's easy to measure _revenue_, and not too hard to optimize for it. But that leaves out customer loyalty and satisfaction, cost of returns, operational costs, employee satisfaction.
