@@ -14,3 +14,4 @@ Some things I've been wrong about:
 
 - "There will be violence at polling places in the 2020 election"
 - "Student loan forgiveness will never happen"
+- "I'll regret it if I stop using social media"

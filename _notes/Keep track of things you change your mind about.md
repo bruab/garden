@@ -15,3 +15,4 @@ Some things I've changed my mind about:
 - Meritocracy is a thing
 - Tech businesses are net good for the world
 - It's a good plan to invest money in the stock market, retire, and live off the interest
+- Social media is worthwhile for me to use
