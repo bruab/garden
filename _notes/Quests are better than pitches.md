@@ -16,7 +16,7 @@ Make the quest relevant to your work, and to the people you want to reach. But a
 
 If you sell design services to startups, a good quest might be "Talk to 50 founders about how they came up with their startup's logo."
 
-You can [[Start with friendlies]] and share this quest with them. (If your aunt knows a startup founder, she will certainly mention it to him.)
+You can [[Start with friendlies]] and share this quest with them. (If your uncle knows a startup founder, he will certainly mention it to her.)
 
 Once you've had a few conversations, you can share this quest with a complete stranger and ask for their story. It's pretty easy, and maybe kind of fun, for them to help you in your quest.
 

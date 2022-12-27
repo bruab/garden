@@ -12,4 +12,4 @@ In tackling a new project, trying to sell your product or service, or attempting
 
 The innermost circle is made up of the people who already trust you and wish you well. They may not be your target market, and they may not have the influence to get you where you want to be. Reach out to them anyway.
 
-Every person on earth who knows what you're working will help you [[Increase optionality]]. And practicing your invitation (remember [[Quests are better than pitches]]) will help you improve it. 
+Every person on earth who knows what you're working will help you [[Increase optionality]]. And practicing your invitation (remember [[Quests are better than pitches]]) will help you improve it.
