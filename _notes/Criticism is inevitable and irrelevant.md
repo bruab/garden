@@ -8,7 +8,7 @@ date: 2022-11-08
 
 ---
 
-No matter how wonderful of a thing you make, [someone will hate it](https://briandavidhall.com/someone-will-hate-it/). They'll go on and on about how terrible it is, gaining status in the process. Even if you have made a literal timeless classic work of art. Seriously, [many such cases](https://briandavidhall.com/categories/someone-will-hate-it/).
+No matter how wonderful of a thing you make, someone will hate it. They'll go on and on about how terrible it is, gaining status in the process. Even if you have made a literal timeless classic work of art. Seriously, [many](https://briandavidhall.com/your-two-nobel-prizes-notwithstanding/) [such](https://briandavidhall.com/jimi-hendrix-was-inartistically-violent/) [cases](https://briandavidhall.com/the-worst-music-video-ever/).
 
 At the same time, it doesn't matter if you get all five star reviews. [[Be careful when optimizing something you can easily measure]].
 
