@@ -8,3 +8,4 @@ date: 2022-11-15
 
 ---
 
+Because time is all we have.
