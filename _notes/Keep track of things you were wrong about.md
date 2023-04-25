@@ -15,3 +15,4 @@ Some things I've been wrong about:
 - "There will be violence at polling places in the 2020 election"
 - "Student loan forgiveness will never happen"
 - "I'll regret it if I stop using social media"
+- "Recycling works and is a good thing to do" ([wrong](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled))
