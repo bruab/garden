@@ -1,6 +1,6 @@
 ---
 
-title: "Fossil fuel companies receive more than $5B a year in subsidies"
+title: "Fossil fuel companies receive more than $5T a year in subsidies"
 feed: show
 date: 2022-10-28
 # permalink: /credits

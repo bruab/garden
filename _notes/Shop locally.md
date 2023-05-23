@@ -8,7 +8,7 @@ date: 2022-10-28
 
 ---
 
-It's inexpensive to buy goods shipped here from halfway around the world, because [[Fossil fuel companies receive more than $5B a year in subsidies]].
+It's inexpensive to buy goods shipped here from halfway around the world, because [[Fossil fuel companies receive more than $5T a year in subsidies]].
 
 But we all pay for it in environmental impact. Your grandkids will pay for it, too (if you have grandkids). [[Consider side effects]].
 
