@@ -1,6 +1,6 @@
 ---
 
-title: 'The US wastes about 100M tons of food each year'
+title: 'The US wastes about 100 million tons of food each year'
 feed: show
 date: 2024-06-14
 # permalink: /credits
