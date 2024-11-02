@@ -21,3 +21,4 @@ Here are some things that are good to do every day:
 - [[Learn new shit]]
 - [[Do outreach]]
 - [[Celebrate wins]]
+- [[Bake, eat, and share whole grain bread]]
