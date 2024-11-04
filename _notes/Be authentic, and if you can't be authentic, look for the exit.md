@@ -8,7 +8,7 @@ date: 2022-11-01
 
 ---
 
-Attempts to compromise on authenticity tend to lead to [flailing, inconsistent attempts](https://twitter.com/search?q=from%3Abriandavidhall%20linkedin) to make peace with a situation, followed by rebellion against it, followed by further failed attempts at compromise.
+Attempts to compromise on authenticity tend to lead to flailing, inconsistent attempts to make peace with a situation, followed by rebellion against it, followed by further failed attempts at compromise. (This characterizes, for example, my years of effort to "be on LinkedIn" before finally giving up in frustration.)
 
 A waste of energy.
 
