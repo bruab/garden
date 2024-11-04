@@ -8,7 +8,7 @@ date: 2022-10-20
 
 ---
 
-Focus instead on finding and learning with other open-minded people. 
+Focus instead on finding with other open-minded people and learning with them— in other words, [[Teach people shit]], [[Learn new shit]], [[Cultivate a connection with other beings]].
 
 Trying to identify bad faith arguments is lose lose lose.
 
